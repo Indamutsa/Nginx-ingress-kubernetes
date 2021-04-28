@@ -5,7 +5,7 @@ metadata:
   name: my-ingress
 spec:
   rules:
-  - host: dcbapp.com
+  - host: dcbapp.ars
     http:
       paths:
       - path: /users
